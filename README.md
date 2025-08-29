@@ -21,3 +21,6 @@ Allows the smart bin to respond automatically to user presence and monitor the w
 1. Open `SmartBin.ino` in Arduino IDE  
 2. Set the board to **ESP32**  
 3. Upload the code to the ESP32
+
+## 🔗 See Also
+- [SmartBin Firmware](https://github.com/AlanLRodrigues/SmartBin-App) – Arduino IDE code for ESP32
