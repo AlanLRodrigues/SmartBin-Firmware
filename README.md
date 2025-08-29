@@ -13,7 +13,7 @@ Allows the smart bin to respond automatically to user presence and monitor the w
 - Sends data to the app via ESP32 and Adafruit IO API
 
 ## 🗂 Folder Structure
-`/SmartBin-Arduino`
+`/SmartBin-Firmware`
 
 `└── SmartBin.ino`
 
