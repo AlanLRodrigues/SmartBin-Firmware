@@ -24,3 +24,4 @@ Allows the smart bin to respond automatically to user presence and monitor the w
 
 ## 🔗 See Also
 - [App Repository](https://github.com/AlanLRodrigues/SmartBin-App) – React Native app for monitoring
+- [CAD Repository](https://github.com/AlanLRodrigues/SmartBin-Cad) – CAD modeling of the SmartBin including full assembly and individual parts in Inventor, STEP, and STL formats
